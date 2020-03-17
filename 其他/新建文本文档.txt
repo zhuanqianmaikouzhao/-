@@ -1,0 +1,14 @@
+pip3 install -i https://pypi.tuna.tsinghua.edu.cn/simple pytesseract
+
+pip --trusted-host pypi.python.org install XXX
+
+
+D:\³ÌÐò\Scripts
+
+
+
+TESSDATA_PREFIX
+
+F:\Tesseract-OCR\tessdata
+
+%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files (x86)\Autodesk\Backburner\
